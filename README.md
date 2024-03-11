@@ -53,6 +53,7 @@ plt.plot(x,y_pred,color="red")
 plt.show()
 ```
 # Output:
+### Best fit using least square method
 ![image](https://github.com/NITHIYANANDAN278/Find-the-best-fit-line-using-Least-Squares-Method/assets/121784636/3279637a-c28d-4f19-ac97-ebf3068149ee)
 
 
